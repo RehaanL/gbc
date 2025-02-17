@@ -5,3 +5,6 @@
 
 ## COMP 1238
 - [COMP 1238 Link](comp1238.md)
+
+## Class Schedule
+- [Class Schedule](class schedule.md)
